@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Download the SAP_PyRFC.py folder and extract it to your project folder.
+Clone the repo or download as a zipfile and extract it to your project folder.
 
 
 ### Prerequisites
