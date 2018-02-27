@@ -8,7 +8,7 @@ Clone the repo or download as a zipfile and extract it to your project folder.
 ### Prerequisites
 
 This project is dependent on the pyrfc library (you can get it here: https://github.com/SAP/PyRFC).
-* The DLL required for the pyrfc module is proprietary. *
+_The DLL required for the pyrfc module is proprietary._
 
 
 ### Installing
