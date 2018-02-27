@@ -1,6 +1,4 @@
-# Project Title
-
-SAP PyRFC
+# SAP PyRFC
 
 ## Getting Started
 
